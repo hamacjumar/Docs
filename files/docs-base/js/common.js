@@ -563,9 +563,9 @@ function RemoveExtension(extName) {
 //'usr' mode runs inside current user app.
 //'file' mode runs as a stand-alone app from a file.
 function RemoteExec(mode, code) {
-	var xhr = new XMLHttpRequest();
-	xhr.open("get", serverAddress + "/ide?cmd=execute&mode=" + mode + "&code=" + encodeURIComponent(btoa(code)), true);
-	xhr.send();
+    var xhr = new XMLHttpRequest();
+    xhr.open("get", serverAddress + "/ide?cmd=execute&mode=" + mode + "&code=" + encodeURIComponent(btoa(unescape(encodeURIComponent(code)))), true);
+    xhr.send();
 }
 
 // app.ShowPopup equivalent for browsers
