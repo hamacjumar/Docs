@@ -60,22 +60,22 @@
 }
 
 .ui-body-a .ui-link {
-    color: orange;
+    color: #3ecd7e;
     font-weight: 700;
     text-decoration: none;
 }
 
 .ui-body-a .ui-link:visited {
-    color: orange;
+    color: #3ecd7e;
     text-decoration: none;
 }
 
 .ui-body-a .ui-link:hover {
-    color: #ecc071;
+    color: #74d6a0;
 }
 
 .ui-body-a .ui-link:active {
-    color: #38c
+    color: #40b171
 }
 
 .ui-btn-up-a {
