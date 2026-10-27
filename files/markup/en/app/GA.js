@@ -18,5 +18,4 @@ With **G**oogle **A**nalytics implemented via analytics.js you can track the use
 
 You can find more informations on the [Google Developers page](https://developers.google.com/analytics/devguides/collection/analyticsjs/command-queue-reference).
 
-<premium>
  */

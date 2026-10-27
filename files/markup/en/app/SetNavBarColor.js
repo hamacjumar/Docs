@@ -5,7 +5,6 @@
  * @brief Set NavBar color
  * Change the android NavBar color.
  *
- * <premium>
  * $$ app.SetNavBarColor(color) $$
  * @param {str_col} color
 */

@@ -6,7 +6,6 @@
  * @brief Returns a new Theme object
  * Returns a Theme object.
  *
- * <premium>
  * $$ thm = app.CreateTheme(baseTheme) $$
  * @param {str} baseTheme Dark|Light|Default
  * @returns dso-Theme

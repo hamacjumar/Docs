@@ -6,7 +6,6 @@
  * @brief Returns a new CodeEdit object
  * CreateCodeEdit is a control for premium users which is like a TextEdit but it has advanced methods.
  *
- * <premium>
  * $$ cde = app.CreateCodeEdit(text, width=-1, height=-1, options?) $$
  * @param {str} text
  * @param {num_frc} [width=-1]

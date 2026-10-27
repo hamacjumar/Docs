@@ -6,7 +6,6 @@
  * @brief Returns a new Overlay object
  * Overlays are displayed above everything on the screen - even on the home screen or above other applications. Overlays can be created from services as well which makes them almost perfect for interacting with them.
  *
- * <premium>
  * $$ ovl = app.CreateOverlay(options?) $$
  * @param {str_com} [options] ShowWhenLocked,TurnScreenOn,KeepScreenOn
  * @returns dso-Overlay

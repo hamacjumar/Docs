@@ -18,8 +18,6 @@ The CloudStore component allows you to easily store and retrieve app data (as a 
 This is useful for game high scores, IOT sensor data storage etc. which should be shared across all user devices even if they're not in the same local network.
 Also have look at the [CloudStore Dashboard and API documentation](https://droidscript.github.io/CloudStore/#dashboard)
 
-<premium>
-
 CloudStore has the following limitations:-
 
 	- once every 3 seconds max read/write

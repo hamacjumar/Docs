@@ -5,7 +5,6 @@
  * @brief Blocks android functionality outside your app
  * Blocks android functionality to keep the rest of your phone safe while others may use your app.
  *
- * <premium>
  * <xfeature>
  * $$ app.SetKioskMode(mode, enable?, options='', packages?) $$
  * @param {str_com} mode Power,Status,Nav,NavRight,LockTask:COSU kiosk,Pin:task un-/pinning
