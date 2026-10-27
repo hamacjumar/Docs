@@ -34,13 +34,6 @@
             <td><i class='fa fa-check green'></i></td>
         </tr>
         <tr>
-            <th class='premHint'>MUI "<i class='fa fa-info-circle'></i>":"<premium>" Components</th>
-            <td><i class='fa fa-remove red'></i></td>
-            <td><i class='fa fa-check green'></i> "<i class='fa fa-info-circle'></i>":"Included via <a href='CodingFeatures.htm#MUI' onclick='location.href=this.href'>cfg.MUI</a>"</td>
-            <td><i class='fa fa-check green'></i> "<i class='fa fa-info-circle'></i>":"Included via <a href='CodingFeatures.htm#MUI' onclick='location.href=this.href'>cfg.MUI</a>"</td>
-            <td><i class='fa fa-remove red'></i></td>
-        </tr>
-        <tr>
             <th>Node.js</th>
             <td class='tint-green'>via [NodeJS](../app/CreateNode.htm) Component</td>
             <td class='tint-green'>via [NodeJS](../app/CreateNode.htm) Component</td>
